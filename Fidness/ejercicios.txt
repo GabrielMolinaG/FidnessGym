@@ -1,0 +1,35 @@
+Press de Banca,Pecho,Acostado, bajar y subir la barra con peso.
+Aperturas con Mancuernas,Pecho,Extender los brazos y juntarlos.
+Fondos en Paralelas,Pecho,Bajar y subir el cuerpo en barras paralelas.
+Press Inclinado,Pecho,Similar al press de banca, pero en inclinación.
+Flexiones de Pecho,Pecho,Bajar y subir el cuerpo apoyado en las manos.
+Curl de Bíceps,Brazo,Levantar mancuernas con flexión del codo.
+Martillo con Mancuernas,Brazo,Sujetar mancuernas verticalmente y subir.
+Press Francés,Brazo,Levantar barra o mancuerna desde detrás de la cabeza.
+Fondos en Banco,Brazo,Apoyarse en un banco y bajar el cuerpo.
+Extensión de Tríceps,Brazo,Extender el codo con mancuerna o polea.
+Sentadilla con Barra,Pierna,Bajar y subir con una barra sobre los hombros.
+Peso Muerto,Pierna,Levantar una barra desde el suelo.
+Prensa de Pierna,Pierna,Empujar un peso con las piernas en la prensa.
+Zancadas con Mancuernas,Pierna,Avanzar con una pierna flexionada mientras se sostiene peso.
+Elevación de Talones,Pierna,Subir y bajar los talones para trabajar los gemelos.
+Dominadas,Espalda,Subir el cuerpo colgado de una barra.
+Remo con Barra,Espalda,Remar con barra inclinando el torso.
+Pullover con Mancuerna,Espalda,Llevar una mancuerna desde el pecho hacia atrás.
+Jalón al Pecho,Espalda,Tirar de la barra hacia el pecho en polea alta.
+Hiperextensiones,Espalda,Levantar el torso en banco de hiperextensiones.
+Press Militar,Hombros,Subir y bajar una barra o mancuernas sobre la cabeza.
+Elevaciones Laterales,Hombros,Levantar mancuernas con los brazos rectos hacia los lados.
+Face Pull,Hombros,Tirar de la cuerda hacia la cara en polea.
+Pájaros,Hombros,Inclinarse hacia adelante y levantar pesas lateralmente.
+Encogimientos con Mancuernas,Hombros,Subir y bajar los hombros con mancuernas.
+Crunches,Abdominales,Flexionar el tronco llevando los hombros hacia las rodillas.
+Plancha,Abdominales,Mantener el cuerpo recto apoyado en antebrazos y puntas de los pies.
+Elevación de Piernas,Abdominales,Levantar las piernas estando acostado.
+Bicicleta Abdominal,Abdominales,Girar el torso y tocar el codo con la rodilla opuesta.
+Toques al Tobillo,Abdominales,Acostado, tocar los tobillos con las manos.
+Estiramiento de Cuello,Estiramientos,Girar la cabeza de lado a lado.
+Estiramiento de Espalda,Estiramientos,Flexionar el torso hacia adelante y estirar la espalda.
+Estiramiento de Isquiotibiales,Estiramientos,Tocar los pies con las manos manteniendo las piernas rectas.
+Estiramiento de Brazos,Estiramientos,Estirar los brazos cruzándolos por el pecho.
+Postura del Niño,Estiramientos,Posición de yoga para relajar la espalda.

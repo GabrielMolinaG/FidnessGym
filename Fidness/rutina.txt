@@ -1,0 +1,6 @@
+Rutina del Cliente:
+
+Ejercicio: Estiramiento de Cuello
+Tipo: Estiramientos
+Descripción: Girar la cabeza de lado a lado.
+
